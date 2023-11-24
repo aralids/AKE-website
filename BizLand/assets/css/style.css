@@ -974,7 +974,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/Captura_de_Pantalla_2023-11-08_a_las_19.00.51.png") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1805,4 +1805,8 @@ section {
     text-align: center;
     padding: 2px 0;
   }
+}
+
+p > span {
+  color: #106eea;
 }
